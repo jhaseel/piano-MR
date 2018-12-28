@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mural" size="1200.000000 790.000000" />
+    <ImageTarget name="notas-alteradas-en-el-piano" size="636.000000 223.000000" />
+  </Tracking>
+</QCARConfig>
